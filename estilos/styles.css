@@ -9,11 +9,9 @@ body{
     background-color:rgba(204,157,248);
 }
 main{
-
-
     background-color: white;
-    width: 500px;
-    margin: auto;
+    width:500px;
+    margin:auto;
     box-shadow:3px 3px 5px rgba(0, 0, 0, 0.473);
 padding: 10px;
 }
